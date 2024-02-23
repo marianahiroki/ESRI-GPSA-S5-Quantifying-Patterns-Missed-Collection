@@ -17,7 +17,7 @@ Spatial analysis in ArcGIS detects patterns in 311 requests for municipal servic
    - The dataset of missed trash and recycling collection locations in this map contains more than 6,000 points.
    - The points represent reports of missed trash and recycling collection in Washington, DC, over a three-month period.
    - Based on points alone, you cannot necessarily tell where there are higher numbers of missed collections.
-     <img width="935" alt="Screenshot 2024-02-21 172042" src="https://github.com/marianahiroki/ESRI-GPSA-S5-Quantifying-Patterns-Missed-Collection/assets/110165879/0da19276-808d-423b-b8bf-1a25cf66d048">
+     <img width="937" alt="Screenshot 2024-02-21 171606" src="https://github.com/marianahiroki/ESRI-GPSA-S5-Quantifying-Patterns-Missed-Collection/assets/110165879/8ba02c5f-facd-406f-bee4-5716ff24ec94">
 
   **Data Analysis and Modeling:**
    - Separating the points of missing collection per ward can help to easily quantify.
